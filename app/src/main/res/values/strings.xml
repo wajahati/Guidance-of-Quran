@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guidance of Quran</string>
+
+    <string-array name="Moods">
+        <item>I am feeling</item>
+        <item>Happy</item>
+        <item>Love</item>
+        <item>Angry</item>
+        <item>Anxious</item>
+        <item>Peace</item>
+    </string-array>
+    <string-array name="Filter">
+        <item>Complete Quran</item>
+        <item>First Half</item>
+        <item>Second Half</item>
+    </string-array>
+</resources>
